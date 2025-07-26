@@ -1,0 +1,5 @@
+# uploads/
+
+This folder is used to store user-uploaded files (CSV, Excel, etc.).
+
+⚠️ This folder is ignored by Git except for this file. Uploads files are stored dynamically by creating sub-folders for each user.

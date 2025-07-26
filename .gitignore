@@ -1,0 +1,10 @@
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Uploads (ignore all files but keep the folder)
+uploads/*
+!uploads/.gitignore
+
